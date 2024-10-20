@@ -8,7 +8,7 @@ Need to develop Location screen within Flutter framework:
 1) From Menu, click on Attendance - it will load a list of members with 2 icons on the
 right side. The 2nd icon is to check the current Location & Route traveled by an
 individual member.
-![Attendace Screen](assets/Attendace_Screen.jpg)
+![Attendace Screen](assets/Attendace Screen.jpg)
 ![Drawer Screen](assets/Drawer.jpg)
 3) When you see any individual member data (by clicking on the icon), it will show the
 current location on MAP. And in bottom - it shows all the visited locations in timeline
