@@ -22,4 +22,5 @@ bottom (map screen), it shows the complete route drawn on Google Map. The red do
 on the route line shows STOP time (so if a user has stopped for more than 10 min
 anywhere while traveling, it will count as STOP time).
 ![Routes Screen](assets/Route%20Screen.jpg)
+-tushar
 
